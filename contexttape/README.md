@@ -4,6 +4,8 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://static.pepy.tech/badge/contexttape)](https://pepy.tech/project/contexttape)
+[![Tests](https://github.com/NuTerraLabs/RAGLite/actions/workflows/test.yml/badge.svg)](https://github.com/NuTerraLabs/RAGLite/actions/workflows/test.yml)
+[![GitHub Stars](https://img.shields.io/github/stars/NuTerraLabs/RAGLite?style=social)](https://github.com/NuTerraLabs/RAGLite)
 
 **File-Based RAG Made Simple: Zero-infrastructure vector storage for Retrieval-Augmented Generation (RAG)**
 
